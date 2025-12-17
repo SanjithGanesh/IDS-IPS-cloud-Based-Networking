@@ -1,4 +1,4 @@
-# ☁️ Cloud-Based IDS/IPS Using Suricata
+# ☁️ IDS vs IPS
 
 ## 🧠 Introduction
 
