@@ -153,10 +153,3 @@ This project illustrates how **open-source network detection tools like Suricata
 
 ---
 
-## 👨‍💻 Built By
-
-**Umar Ahamed**
-Cybersecurity Student • Sri Lanka
-Passionate about **network defense, cloud security**, and **ethical hacking.**
-
-⭐ Connect via GitHub: [User-Umar-Ahamed](https://github.com/User-Umar-Ahamed)
